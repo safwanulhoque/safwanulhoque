@@ -25,5 +25,5 @@ I enjoy transforming raw data into meaningful insights through data analytics, b
 
 ## 📫 Connect with Me
 
-* LinkedIn: www.linkedin.com/in/safwanul-hoque
-* Email: [safwanul.hoque.safwan@gmail.com](mailto:safwanul.hoque.safwan@gmail.com)
+- 💼 LinkedIn: [Safwanul Hoque](https://www.linkedin.com/in/safwanul-hoque)
+- 📧 Email: safwanul.hoque.safwan@gmail.com
