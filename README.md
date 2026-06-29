@@ -17,12 +17,13 @@ I enjoy transforming raw data into meaningful insights through data analytics, b
 
 ## 📂 Featured Projects
 
-* 📊 Power BI Project Portfolio
-* 📈 SQL Window Functions Analytics
-* 📉 Tableau Retail Sales Analytics Dashboard
-* 💻 Multi-Language Practice (Python, Java, C)
+* 📊 [Power BI Project Portfolio](https://github.com/safwanulhoque/Power-Bi-project-portfolio)
+* 📈 [SQL Window Functions Analytics](https://github.com/safwanulhoque/SQL-Window-Functions-Analytics)
+* 📉 [Tableau Retail Sales Analytics Dashboard](https://github.com/safwanulhoque/Tableau-Retail-Sales-Analytics-Dashboard)
+* 💻 [Multi-Language Practice](https://github.com/safwanulhoque/multi-language-practice)
+
 
 ## 📫 Connect with Me
 
-* LinkedIn: https://www.linkedin.com/in/your-linkedin
+* LinkedIn: www.linkedin.com/in/safwanul-hoque
 * Email: [safwanul.hoque.safwan@gmail.com](mailto:safwanul.hoque.safwan@gmail.com)
