@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Safwanul Hoque 👋
 
-<!--
-**safwanulhoque/safwanulhoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science (Data Analytics) Undergraduate** at Asia Pacific University (APU), Malaysia.
 
-Here are some ideas to get you started:
+I enjoy transforming raw data into meaningful insights through data analytics, business intelligence, and visualization. I continuously build projects to strengthen my analytical and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+* SQL (PostgreSQL)
+* Power BI (DAX, Power Query)
+* Tableau
+* Python
+* Java
+* C
+* Microsoft Excel
+* R
+
+## 📂 Featured Projects
+
+* 📊 Power BI Project Portfolio
+* 📈 SQL Window Functions Analytics
+* 📉 Tableau Retail Sales Analytics Dashboard
+* 💻 Multi-Language Practice (Python, Java, C)
+
+## 📫 Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/your-linkedin
+* Email: [safwanul.hoque.safwan@gmail.com](mailto:safwanul.hoque.safwan@gmail.com)
